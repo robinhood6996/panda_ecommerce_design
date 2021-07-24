@@ -1,0 +1,45 @@
+
+/* Navbar */
+.navbar{
+    background-color:#F8F9FA;
+}
+
+/* Carousel */
+.sliders{
+    background-color: #FCEAE8;
+}
+
+/* category styles */
+.cat-1{
+background-color: #FFA500;
+}
+.cat-2{
+    background-color: #DA70D6;
+}
+.cat-3{
+    background-color: #0000FF;
+}
+.cart-button{
+    background-color: #FF458F;
+}
+
+#subscribe{
+    background-color: #FCEAE8;
+}
+.categories img{
+    height: 100px;
+    width: 100px;
+}
+
+/* Products */
+.price{
+    color: #FF458F;
+}
+.shoes img{
+    width: 350px;
+    height: 210px;
+}
+.bags img{
+    width: 350px;
+    height: 324px;
+}
